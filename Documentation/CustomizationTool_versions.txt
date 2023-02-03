@@ -1,0 +1,16 @@
+V2.0.10
+1.更新Key列表,增加key文件和说明
+2.更新apktool.jar，优化对andriod7.1 apk的反编译支持
+
+V2.0.9
+1.解决system大文件解压崩溃的bug
+2.调整apk解压后的参数位置
+3.替换解压库
+
+V2.0.8
+1.更新Key列表，与目前DTB中的一致
+2.增加对andriod6.0 apk的反编译支持
+
+V2.0.7
+1.更新了对boot和recovery压缩的支持
+2.Key列表增加了hdcp2_rx的支持

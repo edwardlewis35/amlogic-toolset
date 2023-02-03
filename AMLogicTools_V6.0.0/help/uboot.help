@@ -1,0 +1,55 @@
+uboot amlmmc  - AMLMMC sub system
+uboot amlnf   - aml nand sub-system
+uboot amlnf_test- AMLPHYNAND sub-system
+uboot autoscr - run script from memory
+uboot base    - print or set address offset
+uboot bcb     - bcb
+uboot bmp     - manipulate BMP image data
+uboot booti   - boot arm64 Linux Image image from memory
+uboot bootm   - boot application image from memory
+uboot bootp   - boot image via network using BOOTP/TFTP protocol
+uboot cbusreg - cbus register read/write
+uboot chipid  - Print Chip ID
+uboot clkmsr  - Amlogic measure clock
+uboot cmp     - memory compare
+uboot cp      - memory copy
+uboot crc32   - checksum calculation
+uboot cvbs    - CVBS sub-system
+uboot dcache  - enable or disable data cache
+uboot defenv_reserv- reserve some specified envs after defaulting env
+uboot dhcp    - boot image via network using DHCP/TFTP protocol
+uboot echo    - echo args to console
+uboot efuse   - efuse commands
+uboot efuse_user- efuse user space read write ops
+uboot emmc    - EMMC sub system
+uboot env     - environment handling commands
+uboot exit    - exit script
+uboot ext4load- load binary file from a Ext4 filesystem
+uboot ext4ls  - list files in a directory (default /)
+uboot ext4size- determine a file's size
+uboot false   - do nothing, unsuccessfully
+uboot fastboot- use USB Fastboot protocol
+uboot fatinfo - print information about filesystem
+uboot fatload - load binary file from a dos filesystem
+uboot fatls   - list files in a directory (default /)
+uboot fatsize - determine a file's size
+uboot fdt     - flattened device tree utility commands
+uboot forceupdate- forceupdate
+uboot get_rebootmode- get reboot mode
+uboot get_valid_slot- get_valid_slot
+uboot go      - start application at address 'addr'
+uboot gpio    - query and control gpio pins
+uboot hdmitx  - HDMITX sub-system
+uboot help    - print command description/usage
+uboot i2c     - I2C sub-system
+uboot icache  - enable or disable instruction cache
+uboot imgread - Read the image from internal flash with actual size
+uboot irblaster- blaster ir signal
+uboot itest   - return true/false on integer compare
+uboot jtagoff - disable jtag
+uboot jtagon  - enable jtag
+uboot keyman  - Unify key ops interfaces based dts cfg
+uboot keyunify- key unify sub-system
+uboot loop    - infinite loop on address range
+uboot macreg  - ethernet mac register read/write/dump
+uboot md      - memory display

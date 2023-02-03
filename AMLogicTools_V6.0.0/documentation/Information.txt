@@ -1,0 +1,16 @@
+The customization tool is the ultimate AMLogic firmware manipulation/unpack utillity
+
+Created by myself(Ricky Divjakovski), this tool unpacks AMLogic firmware upto 8.1.
+Almost every single binary has been built from scratch, multiple languages have been used
+and alot of reverse engineering has been involved.
+
+The only binaries i did not build
+-AmlImagePack
+-7za
+-ImgExtractor
+
+Every other file in this project is built by me.
+
+But if you are seeing this, CONGRATULATIONS!
+You are an official supporter for the project and your contribution means alot.
+Over 500 hours of work and endless amounts of research have made this project what it is today.

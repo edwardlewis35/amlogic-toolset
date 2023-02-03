@@ -1,0 +1,18 @@
+# to remove a folder
+/system/app/appFolderToRemove1/.
+/system/app/appFolderToRemove2/.
+/system/app/appFolderToRemove3/.
+/system/app/appFolderToRemove4/.
+/system/app/appFolderToRemove5/.
+
+# to remove a file
+/system/app/appFolderToRemove1.apk
+/system/app/appFolderToRemove2.apk
+/system/app/appFolderToRemove3.apk
+/system/app/appFolderToRemove4.apk
+/system/app/appFolderToRemove5.apk
+
+# lines starting with "#" will be ignored by the program
+# you are free to add comments to your scrips.
+# you can make multiple scripts for different firmwares.
+# you can run multiple scripts on the same firmware.

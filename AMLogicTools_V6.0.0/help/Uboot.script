@@ -1,0 +1,9 @@
+# You can run this by placing it in the same directory as the app and
+# executing run BLConsoleScriptExample.txt
+# these commented lines and blank lines are ignored.
+# Take note the EOL chars are in unix format(\n)
+
+init fastboot
+wait-for-device
+devices
+init amlogic
